@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello! My name is Daniel! ✨
 
+Contact me: danielrota10@gmail.com || rota.daniel.studente@itispaleocapa.it ✨
 <!--
 **DanielRota/DanielRota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
