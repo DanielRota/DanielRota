@@ -1,6 +1,9 @@
 ### Hello! My name is Daniel! ✨
 
-Contact me: danielrota10@gmail.com ✨
+✨ Contact me: danielrota10@gmail.com
+
+✨ Programming Languages: 
+
 <!--
 **DanielRota/DanielRota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
