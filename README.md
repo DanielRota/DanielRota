@@ -1,4 +1,4 @@
-### Hello! My name is Daniel! I'm an IT Student and Programmer!
+### Hello! My name is Daniel! I'm an IT Student and Developer!
 
 ✨ Skills: 
 
