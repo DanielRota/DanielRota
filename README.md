@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Hello! My name is Daniel! I'm an IT Student and Developer!
 
 ✨ Skills: 
