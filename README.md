@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-### Hey! My name is Daniel and I'm an IT Student and Developer!
+Economics Student and .NET Developer at OTG Informatica.
 
 ✨ Skills: 
 
