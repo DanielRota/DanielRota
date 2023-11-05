@@ -8,7 +8,7 @@
 </em></p>
 
 ```javascript
-const daniel = {
+let daniel = {
     languages: [ ".NET", "Javascript" ],
     frameworks: [ "KnockoutJs", "jQuery" ],
     style: [ "HTML", "CSS", "Bootstrap" ],
