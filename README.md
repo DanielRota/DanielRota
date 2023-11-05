@@ -1,15 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
+<div align="center">
+
 <p align="center"> 
   <samp>
     <br>
-    「 Economics Student and .NET Developer at OTG Informatica </b> 」
+    <p>「 Economics Student and .NET Developer at OTG Informatica 」</p>
     <br>
     <br>
   </samp>
 </p>
 
-<hr>
+</div>
 
 ## Tools and Languages
 
