@@ -2,7 +2,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 Economics Student and .NET Developer at OTG Informatica </b> 」
     <br>
